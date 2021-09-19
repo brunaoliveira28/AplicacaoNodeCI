@@ -1,20 +1,15 @@
 {
   "name": "aplicacaonodeaula",
   "version": "1.0.0",
-  "description": "Aplicativo da Aula",
-  "main": "\u001b[D\u001b[D\u001b[D\u001bapp.js\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C",
+  "description": "Aplicativo de aula",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Capp.js)",
   "scripts": {
-    "test": "echo Error: no test specified && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brunaoliveira28/AplicacaoNodeCI.git"
   },
-  "keywords": [
-    "Aplicacao",
-    "aula",
-    "teste
-  ],
   "author": "Bruna",
   "license": "ISC",
   "bugs": {
