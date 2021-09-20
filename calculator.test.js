@@ -9,7 +9,7 @@ test("testando soma de 1+1",()=>{
 
 	);
 
-test("testar divisão de 42/6", ()=>{
+test("testar divisão de 42/6",()=>{
 	expect(calculator.divisão(42,6)).toBe(7);
 }
 	);
